@@ -21,8 +21,10 @@ console.table(numbersDivBy2);
 console.table(numbersDivBy3);
 
 
-/* En esta otra solución calculamos los primeros 100 números 
-divisibles por 2 y los primeros 100 divisibles por 3 */
+/* Esta no es la solución del problema planteado
+no obstante la he implementado para probar. En la misma 
+calculamos los primeros 100 números divisibles por 2 y 
+también los primeros 100 divisibles por 3 */
 
 // Iteramos en un ciclo desde 1 a 100 y vamos calculando los números y completando el array correspondiente.
 // for (let i = 1; i <= 100; i++) {
